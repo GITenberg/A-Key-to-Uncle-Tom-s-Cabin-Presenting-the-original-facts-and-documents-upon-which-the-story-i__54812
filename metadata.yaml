@@ -1,0 +1,33 @@
+_repo: A-Key-to-Uncle-Tom-s-Cabin-Presenting-the-original-facts-and-documents-upon-which-the-story-i__54812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2017-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Key to Uncle Tom''s Cabin
+
+  Presenting the original facts and documents upon which the
+
+  story is founded. Together with corroborative statements
+
+  verifying the truth of the work.'
+url: http://www.gutenberg.org/ebooks/54812
