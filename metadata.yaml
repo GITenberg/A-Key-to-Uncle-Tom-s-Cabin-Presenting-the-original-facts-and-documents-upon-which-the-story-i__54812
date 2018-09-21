@@ -1,5 +1,8 @@
 _repo: A-Key-to-Uncle-Tom-s-Cabin-Presenting-the-original-facts-and-documents-upon-which-the-story-i__54812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54812-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54812#A-Key-to-Uncle-Tom-s-Cabin-Presenting-the-original-facts-and-documents-upon-which-the-story-i_
 gutenberg_issued: '2017-05-30'
 gutenberg_type: Text
 identifiers:
